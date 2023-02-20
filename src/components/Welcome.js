@@ -1,4 +1,4 @@
-// write code for Welcome component here
+// write code for Welcome compodnent here
 import React from 'react'
 
 function Welcome(props) {
